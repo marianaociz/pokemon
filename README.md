@@ -183,8 +183,7 @@ Se o usuário não estiver logado:
 
 # 👤 Perfil
 
-A foto exibida no perfil é gerada automaticamente através de uma API externa, talvez demore um pouco para carregar, mas se atualizar
-a pagina ela aparecerá normalmente.
+A foto exibida no perfil é gerada automaticamente através de uma API externa, talvez demore um pouco para aparecer direto, mas se atualizar a pagina ela aparecerá normalmente.
 
 Isso significa que:
 
@@ -279,8 +278,8 @@ Na tela de Pokédex existe um botão de voltar, que redireciona o usuário para 
 
 Na Dashboard o usuário pode escolher entre:
 
-👤 Acessar o Perfil
-📘 Acessar a Pokédex
+* 👤 Acessar o Perfil
+* 📘 Acessar a Pokédex
 
 Além disso, o sistema também permite navegação livre pela navbar, sem necessidade de depender apenas dos botões internos das telas.
 
