@@ -2,7 +2,7 @@
 
 # 🎮 Sobre o Projeto
 
-O Pokémon é uma aplicação mobile onde os usuários podem:
+O Pokémon é uma aplicação Web onde os usuários podem:
 
 ✅ Criar uma conta
 
